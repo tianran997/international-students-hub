@@ -65,7 +65,7 @@ InternationalStudentsHub/
 
 ## 🌐 Try It Out
 
-🔗 [Live Website Link](#)  
+🔗 [Live Website Link](https://tianran997.github.io/international-students-hub/index.html)  
 📸 [Video Demo](#)  
 📝 [Report Document (PDF)](#)
 
