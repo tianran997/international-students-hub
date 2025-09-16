@@ -14,6 +14,7 @@
         <h1>Send Us Feedback</h1>
         <p>Use this form to report broken links, suggest improvements, or share your ideas.</p>
     </div>
+    <div id="google_translate_element" style="text-align:right; margin:10px;"></div>
     <div class="uw-divider"></div>
     <div class="uw-card">
         <iframe
@@ -37,6 +38,22 @@
             Color palette inspired by UW’s website for a simple, student-friendly look.
         </span>
     </footer>
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement(
+            {
+              pageLanguage: 'en',  // 我网站的默认语言
+              includedLanguages: 'zh-CN,zh-TW,vi,es,ja,fr,ko', // 想要支持的语言代码
+              layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            },
+            'google_translate_element'
+          );
+        }
+      </script>
+      <script type="text/javascript" 
+        src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+      </script>
 </body>
 
 </html>
